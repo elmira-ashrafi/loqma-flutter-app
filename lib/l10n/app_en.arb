@@ -1,0 +1,1365 @@
+{
+  "@@locale": "en",
+  "appTitle": "لقمه",
+  "foodDelivery": "Food delivery",
+  "deliveryTo": "Delivery to",
+  "searchHint": "Search delicious food...",
+  "categories": "Categories",
+  "viewAll": "View All",
+  "restaurants": "Restaurants",
+  "clear": "Clear",
+  "topRestaurants": "Top Restaurants",
+  "seeAll": "See All",
+  "freeDelivery": "Free Delivery",
+  "featured": "Featured",
+  "all": "All",
+  "retry": "Retry",
+  "freeDeliveryLabel": "Free delivery",
+  "deliveryFeeLabel": "{amount} delivery fee",
+  "@deliveryFeeLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "minLabel": "{minutes} min",
+  "@minLabel": {
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "minRangeLabel": "{low}–{high} min",
+  "@minRangeLabel": {
+    "placeholders": {
+      "low": {
+        "type": "String"
+      },
+      "high": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantOpenBadge": "OPEN",
+  "restaurantClosedBadge": "CLOSED",
+  "orderNow": "Order Now",
+  "loadingEllipsis": "…",
+  "ordersFilterTitle": "Show orders",
+  "ordersFilterAll": "All orders",
+  "ordersFilterActiveOnly": "Active only",
+  "ordersFilterCompleted": "Completed",
+  "ordersFilterCancelled": "Cancelled",
+  "ordersFilterTooltip": "Filter orders",
+  "ordersSectionActive": "ACTIVE ORDERS",
+  "ordersSectionCompleted": "COMPLETED ORDERS",
+  "ordersSectionCancelled": "CANCELLED",
+  "orderPlacedAt": "Placed {when}",
+  "@orderPlacedAt": {
+    "placeholders": {
+      "when": {
+        "type": "String"
+      }
+    }
+  },
+  "orderRelativeJustNow": "just now",
+  "orderRelativeMinutesAgo": "{count} min ago",
+  "@orderRelativeMinutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "orderRelativeHoursAgo": "{count} hr ago",
+  "@orderRelativeHoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "orderRelativeDaysAgo": "{count} days ago",
+  "@orderRelativeDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "orderStatusActiveGeneric": "Active",
+  "orderCallRider": "Call rider",
+  "orderMapLegendRestaurant": "Rest.",
+  "orderMapLegendYou": "You",
+  "ordersReviewBannerOne": "1 order needs your review",
+  "ordersReviewBannerMany": "{count} orders need your review",
+  "@ordersReviewBannerMany": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "qtyWithCount": "{label}: {count}",
+  "@qtyWithCount": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "navOffers": "Offers",
+  "navFavs": "Favs",
+  "home": "Home",
+  "orders": "Orders",
+  "profile": "Profile",
+  "cart": "Cart",
+  "cartBadgeMax": "99+",
+  "cartFabTooltip": "Cart",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "createAccount": "Create account",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "phone": "Phone",
+  "profileTitle": "Profile",
+  "addresses": "Addresses",
+  "favorites": "Favorites",
+  "notifications": "Notifications",
+  "settings": "Settings",
+  "settingsHeroSubtitle": "Appearance, language, and legal information.",
+  "settingsNavDisplay": "Display & preferences",
+  "settingsNavLanguage": "Language",
+  "settingsNavAbout": "About & legal",
+  "logout": "Logout",
+  "myOrders": "My Orders",
+  "browseRestaurants": "Browse restaurants",
+  "cartEmpty": "Cart is empty",
+  "goBack": "Go back",
+  "subtotal": "Subtotal",
+  "delivery": "Delivery",
+  "total": "Total",
+  "qty": "Qty",
+  "viewCartCheckout": "View cart & checkout",
+  "checkout": "Checkout",
+  "deliveryAddress": "Delivery address",
+  "selectOrAddAddress": "Select or add address",
+  "deliveryLocationPromptTitle": "Add your delivery address",
+  "deliveryLocationPromptSubtitle": "Choose your city and area so we can show nearby restaurants and deliver to your door.",
+  "deliveryLocationPromptAction": "Add address",
+  "paymentMethod": "Payment method",
+  "cashOnDelivery": "Cash on delivery",
+  "card": "Card",
+  "orderSummary": "Order summary",
+  "orderPlacedSnackbar": "Your order has been placed successfully.",
+  "itemAddedToCart": "{item} added to cart",
+  "@itemAddedToCart": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      }
+    }
+  },
+  "cartDifferentRestaurantMessage": "Your cart already has items from {restaurant}. Please complete that order or clear your cart before ordering from another restaurant.",
+  "@cartDifferentRestaurantMessage": {
+    "placeholders": {
+      "restaurant": {
+        "type": "String"
+      }
+    }
+  },
+  "darkMode": "Dark mode",
+  "useDarkTheme": "Use dark theme",
+  "notificationsSetting": "Notifications",
+  "pushAndInApp": "Push and in-app",
+  "language": "Language",
+  "appLanguage": "App language",
+  "languageSelectionTitle": "Choose your language",
+  "languageSelectionSubtitle": "Select the language you want to use in the app.",
+  "privacy": "Privacy",
+  "privacyPolicy": "Privacy policy",
+  "privacyPolicyHeroSubtitle": "How we collect, use, and protect your information across our platform.",
+  "terms": "Terms",
+  "termsOfService": "Terms of service",
+  "termsHeroSubtitle": "Rules for using Loqma, orders, delivery, and your account.",
+  "deleteAccountTitle": "Delete account",
+  "deleteAccountSettingsSubtitle": "Request permanent account removal",
+  "deleteAccountIntro": "Your request will be reviewed by our team. If approved, your profile, saved addresses, favorites, and login access will be removed. Order history may be kept for legal compliance.",
+  "deleteAccountWebPolicyLink": "View account deletion policy online",
+  "deleteAccountReasonLabel": "Reason (optional)",
+  "deleteAccountReasonHint": "Tell us why you want to delete your account",
+  "deleteAccountSubmit": "Request deletion",
+  "deleteAccountConfirmTitle": "Delete your account?",
+  "deleteAccountConfirmBody": "Your request will be sent to our team for approval. This action cannot be undone after approval.",
+  "deleteAccountSubmitted": "Deletion request submitted. We will notify you after review.",
+  "deleteAccountCancelled": "Deletion request cancelled.",
+  "deleteAccountCancelRequest": "Cancel request",
+  "deleteAccountCurrentStatus": "Current request status",
+  "deleteAccountStatusPending": "Pending admin approval",
+  "deleteAccountStatusApproved": "Approved — your account has been deleted",
+  "deleteAccountStatusRejected": "Rejected",
+  "deleteAccountStatusCancelled": "Cancelled",
+  "deleteAccountWhatHappens": "What will be removed",
+  "deleteAccountMayBeKept": "May be kept",
+  "deleteAccountDangerZone": "Danger zone",
+  "deleteAccountRemovedProfile": "Profile, phone, and saved addresses",
+  "deleteAccountRemovedFavorites": "Favorites and notification preferences",
+  "deleteAccountRemovedAccess": "Login access to the Loqma app",
+  "deleteAccountKeptOrders": "Order history (legal compliance)",
+  "deleteAccountKeptPayments": "Payment records if required by law",
+  "deleteAccountRedirectingToLogin": "Account deleted. Redirecting to sign in…",
+  "deleteAccountSessionEnded": "Your account has been deleted. Please sign in again with your phone number.",
+  "signInRequired": "Sign in required",
+  "support": "Support",
+  "supportTickets": "Support tickets",
+  "createTicketHelp": "Create a ticket for help",
+  "newTicket": "New ticket",
+  "supportTrackManage": "Track and manage your support requests",
+  "supportNoTicketsTitle": "No tickets found",
+  "supportNoTicketsSubtitle": "Create a ticket for help",
+  "ticketFormTitle": "Submit a Support Request",
+  "ticketFormSubtitle": "Describe your issue and we'll get back to you as soon as possible.",
+  "ticketSubjectLabel": "Subject *",
+  "ticketSubjectHint": "Brief description of your issue",
+  "ticketCategoryLabel": "Category *",
+  "ticketPriorityLabel": "Priority *",
+  "ticketRelatedOrderLabel": "Related Order (optional)",
+  "ticketRelatedOrderNone": "Not related to an order",
+  "ticketMessageLabel": "Message *",
+  "ticketMessageHint": "Please describe your issue in detail...",
+  "ticketMessageMinCharsHint": "Minimum 20 characters",
+  "ticketCancel": "Cancel",
+  "ticketSubmit": "Submit Ticket",
+  "ticketSubmitted": "Ticket submitted. We will get back to you soon.",
+  "ticketMessageTooShort": "Message must be at least 20 characters",
+  "ticketSubmitFailed": "Failed: {error}",
+  "@ticketSubmitFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noSavedAddresses": "No saved addresses",
+  "addAddressHint": "Add an address for faster checkout",
+  "addAddress": "Add address",
+  "noFavoritesYet": "No favorites yet",
+  "favoritesHint": "Restaurants you like will appear here",
+  "noNotifications": "No notifications",
+  "newNotificationReceived": "You've received a new notification",
+  "gotIt": "Got it",
+  "fcmChannelName": "Orders & alerts",
+  "fcmChannelDescription": "Delivery and account notifications",
+  "notificationDefaultTitle": "Loqma",
+  "notificationFallbackTitle": "Notification",
+  "pleaseSignInToViewNotifications": "Please sign in to view notifications.",
+  "notificationOrderConfirmedTitle": "Order Confirmed",
+  "notificationOrderPreparingTitle": "Your Food is Being Prepared",
+  "notificationOrderReadyTitle": "Order Ready for Pickup",
+  "notificationOrderPickedUpTitle": "Driver Picked Up Your Order",
+  "notificationOrderOnTheWayTitle": "Your Order is On The Way",
+  "notificationOrderDeliveredTitle": "Order Delivered",
+  "notificationOrderCancelledTitle": "Order Cancelled",
+  "notificationOrderUpdateTitle": "Order Update",
+  "notificationOrderConfirmedMessage": "Your order #{orderNumber} from {restaurant} has been confirmed and will be prepared soon.",
+  "@notificationOrderConfirmedMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" },
+      "restaurant": { "type": "String" }
+    }
+  },
+  "notificationOrderPreparingMessage": "Your order #{orderNumber} is now being prepared at {restaurant}.",
+  "@notificationOrderPreparingMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" },
+      "restaurant": { "type": "String" }
+    }
+  },
+  "notificationOrderReadyMessage": "Your order #{orderNumber} is ready! A driver will pick it up soon.",
+  "@notificationOrderReadyMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+  "notificationOrderPickedUpMessage": "Your order #{orderNumber} has been picked up by {driver}.",
+  "@notificationOrderPickedUpMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" },
+      "driver": { "type": "String" }
+    }
+  },
+  "notificationOrderOnTheWayMessage": "Your order #{orderNumber} is on the way! {driver} is bringing your food.",
+  "@notificationOrderOnTheWayMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" },
+      "driver": { "type": "String" }
+    }
+  },
+  "notificationOrderDeliveredMessage": "Your order #{orderNumber} has been delivered. Enjoy your meal!",
+  "@notificationOrderDeliveredMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+  "notificationOrderCancelledMessage": "Your order #{orderNumber} has been cancelled.",
+  "@notificationOrderCancelledMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+  "notificationOrderUpdateMessage": "Your order #{orderNumber} status has been updated to {status}.",
+  "@notificationOrderUpdateMessage": {
+    "placeholders": {
+      "orderNumber": { "type": "String" },
+      "status": { "type": "String" }
+    }
+  },
+  "allCaughtUp": "You're all caught up",
+  "editProfile": "Edit profile",
+  "profileUpdatedSnackbar": "Profile updated (wire to /customer/profile)",
+  "noOrdersYet": "No orders yet",
+  "add": "Add",
+  "viewCart": "View cart",
+  "languageEnglish": "English",
+  "languagePashto": "پښتو",
+  "languageDari": "دری",
+  "welcomeBack": "Welcome back",
+  "signInToContinue": "Sign in to continue ordering",
+  "dontHaveAccount": "Don't have an account? ",
+  "alreadyHaveAccount": "Already have an account? ",
+  "fullName": "Full name",
+  "phoneNumber": "Phone number",
+  "confirmPassword": "Confirm password",
+  "passwordMinLength": "Password must be at least 6 characters",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "pleaseEnterName": "Please enter your name",
+  "authNameTooShort": "Please enter at least 2 characters for your name.",
+  "authNameTooLong": "That name is too long (maximum 80 characters).",
+  "authNameLooksLikePhoneNumber": "That looks like a phone number. Enter your name in the name field.",
+  "authNameMustContainLetters": "Enter a name using letters (not only numbers or symbols).",
+  "pleaseEnterEmail": "Please enter your email",
+  "signInToViewProfile": "Sign in to view profile",
+  "save": "Save",
+  "proceedToCheckout": "Proceed to checkout",
+  "cartEmptyHint": "Add items from a restaurant to get started",
+  "cannotReachServer": "Cannot reach server",
+  "orderHistoryHint": "Your order history will appear here",
+  "placeOrder": "Place order",
+  "pullToRefreshOrRetry": "Pull down to refresh or try again",
+  "dashboard": "Dashboard",
+  "customerDashboardSubtitle": "Here's what's happening with your account today.",
+  "customerDashboardTotalOrders": "Total orders",
+  "customerDashboardActiveOrders": "Active orders",
+  "customerDashboardTotalSpent": "Total spent",
+  "customerDashboardOpenTickets": "Open tickets",
+  "customerDashboardOrderFood": "Order food",
+  "customerDashboardOrderMeta": "{placed} · {items}",
+  "@customerDashboardOrderMeta": {
+    "placeholders": {
+      "placed": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      }
+    }
+  },
+  "orderStatusRefunded": "Refunded",
+  "discountCode": "Discount Code",
+  "supportTicket": "Support Ticket",
+  "search": "Search",
+  "foods": "Foods",
+  "searchAllHint": "Search restaurants & food...",
+  "noResults": "No results",
+  "tryDifferentKeywords": "Try different keywords",
+  "allRestaurants": "All Restaurants",
+  "specialDeals": "Special Deals",
+  "orderSummaryCaps": "ORDER SUMMARY",
+  "sizeLabel": "Size",
+  "promoCodeCopied": "Promo code copied",
+  "freeDeliveryAboveDeal": "Free delivery on orders above {amount}",
+  "@freeDeliveryAboveDeal": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "deliveryFeeDeal": "Delivery fee: {amount}",
+  "@deliveryFeeDeal": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToLoqma": "Welcome to Loqma",
+  "signInWithPhoneWhatsAppOtp": "Sign in with your phone number. We will send a message OTP.",
+  "sendOtp": "Send OTP",
+  "continueAction": "Continue",
+  "sendRegistrationOtp": "Send registration OTP",
+  "pleaseEnterPhoneNumber": "Please enter your phone number.",
+  "invalidAfghanPhone": "Enter a valid Afghan mobile (07 or +937, then 0–4 or 6–9, e.g. 072 123 4567).",
+  "testOtpTitle": "Test OTP",
+  "testOtpUseCode": "Use code {code}",
+  "@testOtpUseCode": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "verifyOtpTitle": "Verify OTP",
+  "otpEnterCodeWhatsApp": "Enter the 3-digit code sent to your message number.",
+  "otpTestModeDescription": "Test mode is enabled. You can use the code below directly.",
+  "otpTestModeBanner": "Test mode is enabled. Use OTP: {code}",
+  "@otpTestModeBanner": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "otpCodeLabel": "OTP code",
+  "otpCodeHint": "123456",
+  "verifyAndContinue": "Verify and continue",
+  "resendOtp": "Resend OTP",
+  "otpEnterSixDigits": "Enter the 3-digit OTP code.",
+  "otpIncompleteCode": "Enter all 3 digits of the code.",
+  "otpInvalidCode": "Enter a valid 3-digit code (numbers only).",
+  "otpSentAgain": "OTP sent again",
+  "otpSentAgainTest": "OTP sent again. Test code: {code}",
+  "@otpSentAgainTest": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "authWhatsYourName": "What's your name?",
+  "authEnterPhoneNumber": "Enter phone number",
+  "authContinue": "Continue",
+  "authSendCode": "Send code",
+  "authPhoneVerifyHint": "We'll send a 3-digit code to verify your identity.",
+  "authVerification": "Verification",
+  "authEnterCodeSentTo": "Enter the code sent to",
+  "authVerifyAccount": "Verify account",
+  "authResendVerificationCodeUpper": "RESEND VERIFICATION CODE",
+  "nameHintExample": "Ahmad Karimi",
+  "updateAvailableTitle": "Update available",
+  "updateAvailableMessageDefault": "A new version of the app is available.",
+  "later": "Later",
+  "updateNow": "Update now",
+  "updateInstallPermissionMessage": "Allow installing apps from this source (or install unknown apps) to continue.",
+  "updateCouldNotOpenInstaller": "Could not open the installer.",
+  "updateDownloadFailed": "Download failed.",
+  "backToOrderDetails": "Back to order details",
+  "couldNotLoadTracking": "Could not load tracking.",
+  "restaurantDefaultName": "Restaurant",
+  "yourLocation": "Your location",
+  "mapMarkerRestaurant": "Restaurant",
+  "mapMarkerDelivery": "Delivery",
+  "mapMarkerDriver": "Driver",
+  "orderTrackDistanceKm": "{distance} km",
+  "@orderTrackDistanceKm": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "orderTrackEtaApprox": "~{minutes} min",
+  "@orderTrackEtaApprox": {
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "orderTrackEtaScheduled": "{time}",
+  "@orderTrackEtaScheduled": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "orderTrackCenterMap": "Fit route",
+  "orderTrackZoomIn": "Zoom in",
+  "orderTrackZoomOut": "Zoom out",
+  "orderTrackDirections": "Directions",
+  "orderTrackDirectionsCouldNotOpen": "Could not open Maps.",
+  "orderNumberLabel": "Order #{orderId}",
+  "@orderNumberLabel": {
+    "placeholders": {
+      "orderId": {
+        "type": "String"
+      }
+    }
+  },
+  "estimatedDeliveryTime": "Estimated delivery time",
+  "routeFromLabel": "From",
+  "routeToLabel": "To",
+  "callDriver": "Call driver",
+  "vehicleDefault": "Vehicle",
+  "lookingForDriver": "Looking for a driver…",
+  "deliveryAddressSection": "Delivery address",
+  "yourDriver": "Your driver",
+  "trackDriverLive": "Live",
+  "trackStatusPending": "Order placed",
+  "trackStatusConfirmed": "Confirmed",
+  "trackStatusPreparing": "Preparing",
+  "trackStatusReady": "Ready",
+  "trackStatusPickedUp": "Picked up",
+  "trackStatusOnTheWay": "On the way",
+  "trackStatusDelivered": "Delivered",
+  "orderStatusCancelled": "Cancelled",
+  "menuSectionTitle": "MENU",
+  "customerReviewsSectionTitle": "CUSTOMER REVIEWS",
+  "noCustomerReviewsYet": "No reviews yet.",
+  "reviewsCouldNotLoad": "Reviews couldn’t load. Try opening this screen again.",
+  "similarRestaurantsSectionTitle": "SIMILAR RESTAURANTS",
+  "availableOffersSectionTitle": "AVAILABLE OFFERS",
+  "loadingRestaurant": "Loading restaurant…",
+  "searchMenuItemsHint": "Search menu items…",
+  "copiedCodeMessage": "Copied {code}",
+  "@copiedCodeMessage": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "defaultLocationPlaceholder": "City center",
+  "defaultRestaurantCategoryTagline": "Fast food • Pizza",
+  "restaurantsInThisCategory": "Restaurants in this category",
+  "discoverOrderBestSubtitle": "Discover & order from the best",
+  "superAdminPayments": "Super Admin Payments",
+  "viewFullPaymentDetails": "View full payment details",
+  "completeRawResponsePayload": "Complete raw response payload",
+  "unknownEntity": "Unknown",
+  "labelRestaurantId": "Restaurant ID",
+  "driverProfileAndSettings": "Profile & Settings",
+  "profileUpdatedSuccess": "Profile updated",
+  "saveChanges": "Save changes",
+  "orderUpdatedToStatus": "Order {orderNumber} updated to {status}",
+  "@orderUpdatedToStatus": {
+    "placeholders": {
+      "orderNumber": {
+        "type": "String"
+      },
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "orderUpdatedShort": "Order {orderNumber} updated",
+  "@orderUpdatedShort": {
+    "placeholders": {
+      "orderNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantDashboard": "Restaurant dashboard",
+  "recentOrders": "Recent orders",
+  "noRecentOrdersYet": "No recent orders yet.",
+  "leaveReview": "Leave review",
+  "viewDetails": "View details",
+  "leaveAReview": "Leave a review",
+  "browseToReorderFromRestaurant": "Browse restaurants to order again from this restaurant",
+  "reorder": "Reorder",
+  "cancelOrderAction": "Cancel order",
+  "active": "Active",
+  "available": "Available",
+  "specialOfferDealsTab": "Special offer (Deals tab)",
+  "specialOfferDealsSubtitle": "Requires a discounted price below regular price",
+  "listUnderDeals": "List under Deals",
+  "listUnderDealsSubtitle": "Restaurant must be active; discount dates apply if set",
+  "enterDiscountedPricePositive": "Enter a discounted price greater than zero.",
+  "specialOfferForItem": "Special offer: {itemName}",
+  "@specialOfferForItem": {
+    "placeholders": {
+      "itemName": {
+        "type": "String"
+      }
+    }
+  },
+  "menuManagement": "Menu management",
+  "noMenuCategoriesYet": "No menu categories yet",
+  "createFirstCategoryHint": "Start by creating your first category to organize your menu.",
+  "createFirstCategory": "Create first category",
+  "itemsCountInCategory": "{count} items",
+  "@itemsCountInCategory": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "noItemsInCategory": "No items in this category yet.",
+  "restaurantSettingsUpdated": "Restaurant settings updated",
+  "restaurantSettingsTitle": "Restaurant settings",
+  "acceptCashOnDelivery": "Accept cash on delivery",
+  "acceptOnlinePayment": "Accept online payment",
+  "saveSettings": "Save settings",
+  "restaurantOrdersTitle": "Restaurant orders",
+  "noOrdersForFilter": "No orders found for this filter.",
+  "orderActionConfirm": "Confirm",
+  "orderActionStartPreparing": "Start preparing",
+  "orderActionMarkReady": "Mark ready",
+  "driverWithName": "Driver: {name}",
+  "@driverWithName": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "myEarningsTitle": "My earnings",
+  "payoutRequested": "Payout requested",
+  "requestPayout": "Request payout",
+  "offersDealsTitle": "Offers & deals",
+  "offersDealsEmptyHint": "Restaurants can add special offers on menu items; they will appear here.",
+  "closeTicketTitle": "Close ticket?",
+  "closeTicketMessage": "You can reopen it later if your issue persists.",
+  "closeAction": "Close",
+  "ticketClosedSuccess": "Ticket closed.",
+  "ticketReopenedSuccess": "Ticket reopened.",
+  "ticketScreenTitle": "Ticket",
+  "sendReply": "Send reply",
+  "reopenIfPersists": "Reopen if your issue persists",
+  "failedToSendMessage": "Failed to send: {error}",
+  "@failedToSendMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteAddressTitle": "Delete address?",
+  "deleteAddressMessage": "Remove “{label}”? This cannot be undone.",
+  "@deleteAddressMessage": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteAction": "Delete",
+  "addressRemovedSuccess": "Address removed",
+  "editAction": "Edit",
+  "removeAllNotificationsConfirm": "Remove all notifications from this device list?",
+  "markAllRead": "Mark all read",
+  "orderHistoryTitle": "Order history",
+  "pleaseSelectCity": "Please select a city",
+  "citiesStillLoading": "Cities are still loading. Try again in a moment.",
+  "turnOnLocationServices": "Turn on location services to use this option.",
+  "locationPermissionRequired": "Location permission is required to detect your address.",
+  "couldNotResolveAddress": "Could not resolve an address from your location.",
+  "cityNotDetectedChoose": "City not detected automatically — please choose your city below.",
+  "locationAppliedReviewSave": "Location applied. Review the fields and tap Save.",
+  "couldNotGetLocation": "Could not get location: {error}",
+  "@couldNotGetLocation": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsDefaultAddress": "Set as default address",
+  "openRestaurantNotAvailable": "Open restaurant not available for this item",
+  "hesabPayTitle": "HesabPay",
+  "paymentNotCompleted": "Payment was not completed.",
+  "paymentSuccessfulConfirmed": "Payment successful. Order confirmed.",
+  "paymentFailedOrCancelled": "Payment failed or was cancelled.",
+  "paymentProcessingCheckOrders": "Payment is still processing. Check My orders shortly.",
+  "payOnlineSecurely": "Pay online securely",
+  "acceptOrder": "Accept order",
+  "navEarnings": "Earnings",
+  "navRestaurantMenu": "Menu",
+  "orderCancelledRefundHint": "Order cancelled. Refund will be processed if applicable.",
+  "failedToCancelOrder": "Failed to cancel: {error}",
+  "@failedToCancelOrder": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "cancelOrderTitle": "Cancel order",
+  "keepOrder": "Keep order",
+  "cancelOrderConfirmTitle": "Are you sure you want to cancel?",
+  "cancelOrderConfirmBody": "This action cannot be undone. If you have already paid, a refund will be processed.",
+  "cancelReasonSectionTitle": "Please tell us why",
+  "cancelAdditionalDetailsLabel": "Additional details (optional)",
+  "cancelReasonChangedMind": "Changed my mind",
+  "cancelReasonWrongOrder": "Wrong order placed",
+  "cancelReasonFoundElsewhere": "Found food elsewhere",
+  "cancelReasonDeliveryLong": "Delivery time too long",
+  "cancelReasonPriceIssue": "Price or payment issue",
+  "cancelReasonOther": "Other",
+  "cancelReasonHint": "Help us improve by sharing more details…",
+  "pleaseRateRestaurantAndFood": "Please rate the restaurant and food (1–5 stars).",
+  "orderReviewScreenSubtitle": "How was your experience with this order?",
+  "orderReviewRateRestaurantTitle": "Rate the restaurant",
+  "orderReviewRateFoodTitle": "Rate the food",
+  "orderReviewRateDeliveryTitle": "Rate the delivery",
+  "orderReviewAddPhotosSectionTitle": "Add photos (optional)",
+  "thankYouReviewSubmitted": "Thank you! Your review has been submitted.",
+  "failedSubmitReview": "Failed to submit review: {error}",
+  "@failedSubmitReview": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "addPhotos": "Add photos",
+  "submitReview": "Submit review",
+  "reviewDeliveryHint": "Share your experience with the delivery…",
+  "reviewRestaurantHint": "Share your experience with the food and restaurant…",
+  "addressLabelHint": "e.g. Home, Work",
+  "addressAreaHint": "e.g. Karte-e-Char",
+  "addressStreetHint": "Street name and number",
+  "addressNotesHint": "e.g. Ring doorbell, call on arrival",
+  "ticketReplyHint": "Type your reply here…",
+  "dateHintExampleStart": "e.g. 2026-03-28 00:00:00",
+  "dateHintExampleEnd": "e.g. 2026-04-01 23:59:59",
+  "optionalStartLabel": "Start (optional)",
+  "optionalEndLabel": "End (optional)",
+  "isoDateHint": "ISO or Y-m-d H:i",
+  "restaurantNameField": "Restaurant name",
+  "restaurantNameDariField": "Restaurant name (Dari)",
+  "verifyOtpAppBar": "Verify OTP",
+  "orderStatusTimeSeparator": "{status} • {time}",
+  "@orderStatusTimeSeparator": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ticketCategoryRestaurant": "Restaurant",
+  "restaurantSampleOfferTitle": "20% off burgers",
+  "restaurantSampleOfferSubtitle": "Get 20% off on all burgers. Min order $15.",
+  "restaurantDeliveryOfferTitle": "Delivery offer",
+  "restaurantOfferFreeDeliveryNext": "Free delivery on your next order. No minimum.",
+  "restaurantOfferFreeDeliveryOverAmount": "Free delivery on orders over {amount}.",
+  "@restaurantOfferFreeDeliveryOverAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "restaurantOfferLimitedDeliverySavings": "Limited-time delivery savings.",
+  "backToOrders": "Back to orders",
+  "ticketCategoryOrderIssue": "Order issue",
+  "ticketCategoryPayment": "Payment",
+  "ticketCategoryDelivery": "Delivery",
+  "ticketCategoryAccount": "Account",
+  "ticketCategoryOther": "Other",
+  "ticketStatusOpen": "Open",
+  "ticketStatusInProgress": "In progress",
+  "ticketStatusWaiting": "Waiting",
+  "ticketStatusResolved": "Resolved",
+  "ticketStatusClosed": "Closed",
+  "ticketPriorityLow": "Low",
+  "ticketPriorityMedium": "Medium",
+  "ticketPriorityHigh": "High",
+  "ticketPriorityUrgent": "Urgent",
+  "fieldRequired": "Required",
+  "ticketRelatedOrderOption": "#{orderId} — {restaurant}",
+  "@ticketRelatedOrderOption": {
+    "placeholders": {
+      "orderId": {
+        "type": "String"
+      },
+      "restaurant": {
+        "type": "String"
+      }
+    }
+  },
+  "tapViewDetailsForItems": "Tap View details for items",
+  "orderDetailLoadError": "Could not load order details.",
+  "orderItemsTitle": "Order items",
+  "noItemsInOrder": "No items",
+  "orderTimelineTitle": "Order timeline",
+  "deliveryDetailsTitle": "Delivery details",
+  "paymentSummaryDetailTitle": "Payment summary",
+  "deliveryFeeShort": "Delivery fee",
+  "paymentStatusPendingGeneric": "Pending",
+  "paymentStatusPaid": "Paid",
+  "paymentStatusFailed": "Failed",
+  "paymentMethodOnline": "Online payment",
+  "orderItemQtyTimesPrice": "{qty} × {price}",
+  "@orderItemQtyTimesPrice": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      },
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "emptyValueDash": "—",
+  "trackOrder": "Track order",
+  "restaurantSectionTitle": "Restaurant",
+  "detailRowAddress": "Address",
+  "paymentStatusDetail": "Payment status",
+  "ticketReplyCount": "{count} replies",
+  "@ticketReplyCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutLoadingAddresses": "Loading addresses…",
+  "offersLoadFailed": "Could not load offers.",
+  "offersNoDealsNow": "No active deals right now",
+  "about": "About",
+  "aboutDocumentTitle": "About us",
+  "aboutHero": "Delivering happiness, one meal at a time",
+  "aboutHeroSubtitle": "Your favourite local restaurants, delivered fast and fresh.",
+  "aboutStoryTitle": "Our story",
+  "aboutStoryDesc": "Loqma connects hungry customers with trusted local restaurants. We built this platform to make ordering food simple, transparent, and enjoyable—whether you are at home, at work, or on the go.",
+  "aboutMissionTitle": "Our mission",
+  "aboutMissionDesc": "To empower communities by making quality food accessible to everyone through technology and reliable delivery.",
+  "aboutVisionTitle": "Our vision",
+  "aboutVisionDesc": "To become the most loved food delivery experience in the region—known for speed, fairness, and the restaurants we serve.",
+  "aboutValuesTitle": "Our core values",
+  "aboutValue1Title": "Customer first",
+  "aboutValue1Desc": "Every feature starts with what diners and partners need.",
+  "aboutValue2Title": "Quality",
+  "aboutValue2Desc": "We champion great food and dependable service.",
+  "aboutValue3Title": "Partnership",
+  "aboutValue3Desc": "Restaurants are partners; we grow together.",
+  "aboutValue4Title": "Innovation",
+  "aboutValue4Desc": "We keep improving routes, payments, and your in-app experience.",
+  "aboutWhyTitle": "Why choose us",
+  "aboutWhy1": "Fast, reliable delivery you can track in real time.",
+  "aboutWhy2": "A curated selection of popular and local restaurants.",
+  "aboutWhy3": "Clear pricing and secure checkout.",
+  "aboutWhy4": "Support when you need it.",
+  "aboutWhy5": "Built for the communities we serve.",
+  "aboutWhy6": "Continuous updates and new features.",
+  "aboutStatsTitle": "Loqma by the numbers",
+  "aboutStat1Num": "500+",
+  "aboutStat1Label": "Restaurant partners",
+  "aboutStat2Num": "50K+",
+  "aboutStat2Label": "Orders delivered",
+  "aboutStat3Num": "24/7",
+  "aboutStat3Label": "Customer support",
+  "aboutStat4Num": "100%",
+  "aboutStat4Label": "Commitment to you",
+  "aboutCoverageTitle": "Service coverage",
+  "aboutCoverageDesc": "We are expanding across cities and neighbourhoods. Enter your address in the app to see restaurants available near you.",
+  "aboutCtaTitle": "Have a question?",
+  "aboutCtaBtn": "Contact us",
+  "contactUs": "Contact us",
+  "contactDocumentTitle": "Contact us",
+  "contactHero": "We are here to help",
+  "contactSubtitle": "Reach our team by phone, email, or the form below.",
+  "contactNavReachTooltip": "Phone, email, and office locations",
+  "contactNavFormTooltip": "Message form",
+  "contactNavFaqTooltip": "Common questions",
+  "contactNavOverviewTooltip": "Contact details and form",
+  "contactCallTitle": "Call us",
+  "contactCallOffice": "Office",
+  "contactCallMobile": "Mobile",
+  "contactEmailTitle": "Email",
+  "contactEmailGeneral": "General inquiries",
+  "contactEmailSupport": "Support",
+  "contactVisitTitle": "Visit us",
+  "contactVisitMazarLabel": "Mazar-e-Sharif",
+  "contactVisitMazarBody": "Mazar intersection, Zinat Plaza (Azizi Bank Central), 4th floor, Salayan Company, Mazar-e-Sharif.",
+  "contactVisitKabulLabel": "Kabul",
+  "contactVisitKabulBody": "Shahr-e-Naw, next to Atoma Company, Clock Tower, 5th floor, Salayan Company, Kabul.",
+  "contactFollowTitle": "Follow us",
+  "contactHoursTitle": "Business hours",
+  "contactHoursDays": "Monday – Saturday",
+  "contactHoursTime": "8:00 AM – 8:00 PM",
+  "contactHoursNote": "Hours may vary on public holidays.",
+  "contactFormTitle": "Send us a message",
+  "contactFormName": "Full name",
+  "contactFormEmail": "Email",
+  "contactFormPhone": "Phone",
+  "contactFormSubject": "Subject",
+  "contactFormSubjectHint": "Select a topic",
+  "contactFormSubjectGeneral": "General inquiry",
+  "contactFormSubjectSupport": "Customer support",
+  "contactFormSubjectPartnership": "Restaurant / partnership",
+  "contactFormSubjectDriver": "Driver inquiry",
+  "contactFormSubjectComplaint": "Complaint",
+  "contactFormSubjectFeedback": "Feedback",
+  "contactFormSubjectOther": "Other",
+  "contactFormMessage": "Message",
+  "contactFormSubmit": "Send message",
+  "contactFormSuccessSnackbar": "Thank you! Your email app should open with your message.",
+  "contactFormSubjectError": "Please choose a subject.",
+  "contactFormRequired": "This field is required.",
+  "contactFormEmailInvalid": "Enter a valid email address.",
+  "contactEmailSubjectPrefix": "Contact",
+  "contactSocialSoon": "Social link coming soon.",
+  "contactFaqTitle": "Frequently asked questions",
+  "contactFaq1Q": "How do I track my order?",
+  "contactFaq1A": "Open Orders in the app and select your order to see live status and delivery updates.",
+  "contactFaq2Q": "How do I change my delivery address?",
+  "contactFaq2A": "Before checkout you can pick a saved address or add a new one. After ordering, contact support as soon as possible.",
+  "contactFaq3Q": "What payment methods are supported?",
+  "contactFaq3A": "Available options are shown at checkout and may include cash on delivery and online payment where enabled.",
+  "contactFaq4Q": "How do I partner as a restaurant?",
+  "contactFaq4A": "Choose “Restaurant / partnership” in the form and our team will follow up with onboarding details.",
+  "contactFaq5Q": "How quickly will you respond?",
+  "contactFaq5A": "We aim to reply within one business day. For urgent order issues, call the support number listed above.",
+  "totalEarningsLabel": "Total earnings",
+  "pendingPayoutLabel": "Pending payout",
+  "totalDeliveriesLabel": "Total deliveries",
+  "ratingStatLabel": "Rating",
+  "todaysEarningsLabel": "Today's earnings",
+  "thisWeekLabel": "This week",
+  "driverOfflineTitle": "You are offline",
+  "driverActiveDeliveriesTitle": "You have active deliveries",
+  "driverNoOrdersReadyTitle": "No orders ready for pickup",
+  "clearAllTooltip": "Clear all",
+  "reopenAction": "Reopen",
+  "refreshTooltip": "Refresh",
+  "addressSavedSuccess": "Address saved",
+  "addressUpdatedSuccess": "Address updated",
+  "basicInformation": "Basic information",
+  "deliveryAndPayment": "Delivery and payment",
+  "locationSection": "Location",
+  "operatingHours": "Operating hours",
+  "todayOrdersLabel": "Today orders",
+  "todayRevenueLabel": "Today revenue",
+  "pendingOrdersLabel": "Pending orders",
+  "tapOpenSupportTicket": "Tap to open support ticket",
+  "tapViewOrderNotification": "Tap to view order",
+  "noLineItems": "No line items",
+  "pleaseWaitProcessing": "Please wait…",
+  "districtHint": "e.g. Karte-e-Char",
+  "streetHint": "Street name and number",
+  "deliveryNotesHint": "e.g. Ring doorbell, call on arrival",
+  "statusOnline": "Online",
+  "statusOffline": "Offline",
+  "driverDashboardTitle": "Driver dashboard",
+  "driverVehicleInformation": "Vehicle information",
+  "vehicleTypeLabel": "Vehicle type (e.g., motorcycle, car)",
+  "vehicleModelLabel": "Vehicle model",
+  "vehicleColorLabel": "Vehicle color",
+  "licensePlateLabel": "License plate",
+  "driverMinimumPayoutMessage": "Minimum payout amount is {amount}. Keep delivering to reach the threshold!",
+  "@driverMinimumPayoutMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "driverReadyForPayoutTitle": "Ready for payout!",
+  "driverPayoutAvailableMessage": "You have {amount} available for withdrawal.",
+  "@driverPayoutAvailableMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "driverEarningLabel": "earning",
+  "reviewsCountLabel": "{count} reviews",
+  "@reviewsCountLabel": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "driverActiveDeliveriesSectionTitle": "Active deliveries",
+  "driverEarningPrefix": "Earning:",
+  "driverAvailableOrdersSectionTitle": "Available orders",
+  "driverOfflineBody": "Go online to start receiving delivery requests.",
+  "driverBusyDeliveriesBody": "Complete your current deliveries to receive new orders.",
+  "driverNoOrdersReadyBody": "Orders will appear here when restaurants mark them as ready.",
+  "driverUpcomingOrdersTitle": "Upcoming orders",
+  "driverUpcomingOrdersHint": "These orders will be available for pickup once restaurants mark them as ready.",
+  "recentDeliveriesSectionTitle": "Recent deliveries",
+  "restaurantOpenAcceptingOrders": "Your restaurant is currently accepting orders.",
+  "restaurantCurrentlyClosedNotice": "Your restaurant is currently closed.",
+  "restaurantPendingApprovalNotice": "Your application is under review. Complete your settings and wait for approval.",
+  "restaurantApplicationRejectedNotice": "Your restaurant application was rejected. Update your details in settings and contact support if needed.",
+  "restaurantNewOrdersSectionTitle": "New orders",
+  "restaurantActiveOrdersSectionTitle": "Active orders",
+  "restaurantNoPendingOrdersSubtitle": "No pending orders right now.",
+  "restaurantNoActiveOrdersSubtitle": "No active orders right now.",
+  "rejectOrderAction": "Reject",
+  "partnerAccountStatusActive": "Active partner account",
+  "partnerAccountStatusPending": "Pending approval",
+  "partnerAccountStatusRejected": "Rejected",
+  "adminHesabPayLoadError": "Could not load HesabPay payments.",
+  "adminNoHesabPayPayments": "No HesabPay payments found yet.",
+  "hesabPayPaymentOrderHeader": "HesabPay payment {order}",
+  "@hesabPayPaymentOrderHeader": {
+    "placeholders": {
+      "order": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentImageLabel": "Payment image",
+  "summaryAmountLabel": "Amount",
+  "summaryCustomerLabel": "Customer",
+  "summaryCreatedAtLabel": "Created at",
+  "summaryTransactionRefLabel": "Transaction ref",
+  "ticketReplySectionTitle": "Reply",
+  "ticketMessagesEmptyHint": "No messages yet.",
+  "ticketAssignedTo": "Assigned to: {name}",
+  "@ticketAssignedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ticketClosedStateMessage": "This ticket is closed.",
+  "hoursOpenLabel": "Open",
+  "hoursCloseLabel": "Close",
+  "deliveryFeeFieldLabel": "Delivery fee",
+  "minimumOrderFieldLabel": "Minimum order",
+  "freeDeliveryAboveFieldLabel": "Free delivery above",
+  "averagePrepTimeFieldLabel": "Average preparation time",
+  "coordinatesSavedHint": "Coordinates saved with this address: {lat}, {lng}",
+  "@coordinatesSavedHint": {
+    "placeholders": {
+      "lat": {
+        "type": "String"
+      },
+      "lng": {
+        "type": "String"
+      }
+    }
+  },
+  "useCurrentLocationAction": "Use current location",
+  "gettingLocationEllipsis": "Getting location…",
+  "deliveryInstructionsLabel": "Delivery instructions",
+  "addressLabelShort": "Label",
+  "cityRequiredLabel": "City *",
+  "requiredFieldIndicator": "*",
+  "streetAddressRequiredLabel": "Street address *",
+  "streetAddressHint": "Street name and number",
+  "buildingFieldLabel": "Building",
+  "floorFieldLabel": "Floor",
+  "apartmentFieldLabel": "Apartment",
+  "areaFieldLabel": "Area",
+  "editAddressScreenTitle": "Edit address",
+  "updateAddressButton": "Update address",
+  "saveAddressButton": "Save address",
+  "addressChooseCityTitle": "Choose your city",
+  "addressChooseCitySubtitle": "We currently deliver in these cities.",
+  "addressChooseDistrictTitle": "Choose your district",
+  "addressChooseDistrictSubtitle": "Select a district in {city}.",
+  "@addressChooseDistrictSubtitle": {
+    "placeholders": {
+      "city": { "type": "String" }
+    }
+  },
+  "addressStreetDetailsTitle": "Street details",
+  "addressStreetDetailsSubtitle": "Add your street and house number in {district}, {city}.",
+  "@addressStreetDetailsSubtitle": {
+    "placeholders": {
+      "district": { "type": "String" },
+      "city": { "type": "String" }
+    }
+  },
+  "addressStreetNameLabel": "Street name & number",
+  "addressStreetNameHint": "e.g. Street 5, block 12",
+  "addressHouseNumberLabel": "House / office number",
+  "addressHouseNumberHint": "e.g. House 24 or Office 3",
+  "addressStreetRequired": "Please enter your street name.",
+  "addressHouseNumberRequired": "Please enter your house or office number.",
+  "addressNoCitiesAvailable": "No delivery cities are available right now.",
+  "addressNoDistrictsAvailable": "No districts found for this city.",
+  "addressProfileNamePhoneRequired": "Your profile name and phone are required to save an address.",
+  "addItemTooltip": "Add item",
+  "addCategoryTooltip": "Add category",
+  "newCategoryDialogTitle": "New category",
+  "editCategoryDialogTitle": "Edit category",
+  "categoryNameFaLabel": "Name (Dari)",
+  "newMenuItemTitle": "New menu item",
+  "editMenuItemTitle": "Edit menu item",
+  "foodCategoryDropdownLabel": "Category",
+  "discountedPriceFieldLabel": "Discounted price",
+  "preparationTimeMinutesLabel": "Preparation time",
+  "menuItemHasSizesLabel": "Offer sizes (Kids, Small, Medium, Large, Family)",
+  "menuItemSmallPriceHint": "Enter a price only for sizes you offer. Leave blank to skip — Small is not selected by default.",
+  "menuItemKidsPriceLabel": "Kids price (optional)",
+  "menuItemSmallPriceLabel": "Small price (optional)",
+  "menuItemMediumPriceLabel": "Medium price (optional)",
+  "menuItemLargePriceLabel": "Large price (optional)",
+  "menuItemFamilyPriceLabel": "Family Size price (optional)",
+  "menuItemSizesAvailable": "Sizes available",
+  "offerLabelOptionalField": "Offer label (optional)",
+  "discountStartOptionalField": "Discount start (optional)",
+  "discountEndOptionalField": "Discount end (optional)",
+  "discountedPriceCurrencyHint": "Discounted price (AFN)",
+  "labelOptionalField": "Label (optional)",
+  "discountedMustBeBelowRegular": "Discounted price must be less than regular price ({regular}).",
+  "@discountedMustBeBelowRegular": {
+    "placeholders": {
+      "regular": {
+        "type": "String"
+      }
+    }
+  },
+  "specialOfferDialogTitle": "Special offer: {itemName}",
+  "@specialOfferDialogTitle": {
+    "placeholders": {
+      "itemName": {
+        "type": "String"
+      }
+    }
+  },
+  "specialOfferTooltip": "Special offer",
+  "descriptionFieldLabel": "Description",
+  "defaultLocationStreetFallback": "Current location",
+  "coordinateLatitudeLabel": "Latitude",
+  "coordinateLongitudeLabel": "Longitude",
+  "restaurantStatusOpen": "OPEN",
+  "restaurantStatusClosed": "CLOSED",
+  "prepTimeRange": "{low}–{high} min",
+  "@prepTimeRange": {
+    "placeholders": {
+      "low": {
+        "type": "String"
+      },
+      "high": {
+        "type": "String"
+      }
+    }
+  },
+  "prepTimeDefault": "35–45 min",
+  "cartFabWithCount": "Cart, {count} items",
+  "@cartFabWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "mainNavHome": "Home tab",
+  "mainNavOffers": "Offers tab",
+  "mainNavFavorites": "Favorites tab",
+  "mainNavOrders": "Orders tab",
+  "cartQtyLine": "Qty: {quantity}",
+  "@cartQtyLine": {
+    "placeholders": {
+      "quantity": {
+        "type": "int"
+      }
+    }
+  },
+  "tax": "Tax",
+  "discount": "Discount",
+  "cartFromRestaurant": "From {name}",
+  "@cartFromRestaurant": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "adminSuperPaymentsTitle": "Super Admin Payments",
+  "adminRefresh": "Refresh",
+  "adminCouldNotLoadPayments": "Could not load HesabPay payments.",
+  "adminHesabPayPaymentOrder": "HesabPay payment {order}",
+  "@adminHesabPayPaymentOrder": {
+    "placeholders": {
+      "order": {
+        "type": "String"
+      }
+    }
+  },
+  "adminRestaurant": "Restaurant",
+  "adminCustomer": "Customer",
+  "adminAmount": "Amount",
+  "adminPaymentStatus": "Payment status",
+  "adminViewPaymentDetails": "View full payment details",
+  "adminOrderId": "Order ID",
+  "adminCreatedAt": "Created",
+  "adminPaymentDetails": "Payment details",
+  "ordersTabFilterTooltip": "Filter orders",
+  "ordersTabShowOrders": "Show orders",
+  "ordersTabFilterAll": "All orders",
+  "ordersTabFilterActive": "Active only",
+  "ordersTabFilterCompleted": "Completed",
+  "ordersTabFilterCancelled": "Cancelled",
+  "ordersTabSectionActive": "ACTIVE ORDERS",
+  "ordersTabSectionCompleted": "COMPLETED ORDERS",
+  "ordersTabSectionCancelled": "CANCELLED",
+  "ordersTabReviewsNeeded": "{count, plural, =1{1 order needs your review} other{{count} orders need your review}}",
+  "@ordersTabReviewsNeeded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersTabPlacedRelative": "Placed {time}",
+  "@ordersTabPlacedRelative": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersTabDefaultDeliveryWindow": "35-45 min",
+  "ordersTabMapLegendRestaurant": "Rest.",
+  "ordersTabMapLegendDestination": "You",
+  "relativeTimeJustNow": "Just now",
+  "relativeTimeMinutesAgo": "{count} min ago",
+  "@relativeTimeMinutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "relativeTimeHoursAgo": "{count} hr ago",
+  "@relativeTimeHoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "relativeTimeDaysAgo": "{count} days ago",
+  "@relativeTimeDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "relativeTimeWeeksAgo": "{count} w ago",
+  "@relativeTimeWeeksAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "relativeTimeMonthsAgo": "{count} mo ago",
+  "@relativeTimeMonthsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "relativeTimeYearsAgo": "{count} y ago",
+  "@relativeTimeYearsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restaurantMenuEmpty": "No menu items available yet.",
+  "restaurantMenuSearchNoResults": "No menu items match your search.",
+  "restaurantDetailsLoadFailed": "Could not load this restaurant.",
+  "reviewAnonymousCustomer": "Customer",
+  "menuItemAddToCart": "Add to cart",
+  "menuItemOptionsLabel": "Options",
+  "menuItemAddonsLabel": "Add-ons",
+  "menuItemQuantityLabel": "Quantity",
+  "profileTabEditHint": "View and edit your profile",
+  "profileTabOpenAccount": "Edit profile",
+  "profileTabNavDashboard": "Open dashboard",
+  "profileTabNavOrders": "Open orders",
+  "profileTabNavAddresses": "Open saved addresses",
+  "profileTabNavFavorites": "Open favorites",
+  "profileTabNavNotifications": "Open notifications",
+  "profileTabNavSettings": "Open settings",
+  "profileTabNavLogout": "Sign out",
+  "restaurantDetailsSignInForFavorites": "Please sign in to save restaurants to your favorites.",
+  "restaurantDetailsFavoritesSnackbarTitle": "Favorites",
+  "favoritesRemovedMessage": "Removed from favorites",
+  "favoritesRemoveTooltip": "Remove from favorites",
+  "authEmailOrPhoneHint": "Email or phone number",
+  "authEnterEmailOrPhone": "Enter your email or phone number",
+  "authForgotPassword": "Forgot password?",
+  "authContinueWithGoogle": "Continue with Google",
+  "authCompleteProfileTitle": "Complete your profile",
+  "authCompleteProfileSubtitle": "Add your name and phone number to continue.",
+  "authForgotPasswordSubtitle": "Enter your email and we will send a 6-digit reset code.",
+  "authResetPasswordTitle": "Reset password",
+  "authEnterResetCode": "Enter the 6-digit code sent to",
+  "authResendCode": "Resend code",
+  "authResendCodeInSeconds": "Resend code in {seconds}s",
+  "@authResendCodeInSeconds": {
+    "placeholders": {
+      "seconds": { "type": "int" }
+    }
+  },
+  "authPasswordMinEight": "Password must be at least 8 characters",
+  "authSendResetCode": "Send reset code",
+  "authSixDigitCodeHint": "000000",
+  "authSetNewPassword": "Set new password",
+  "authPasswordResetSuccess": "Password updated. Sign in with your new password.",
+  "authResetCodeSent": "Reset code sent",
+  "authYourLocation": "Your location",
+  "authRegisterLocationHint": "Use GPS or type your delivery address manually.",
+  "authAddressHint": "Street, area, city",
+  "authLocationRequired": "Enter your delivery address (at least 5 characters).",
+  "authEnterSixDigitCode": "Enter the 6-digit code.",
+  "authInvalidSixDigitCode": "Enter a valid 6-digit code.",
+  "couldNotDetectLocation": "Could not detect your location. Enter your address manually.",
+  "authOrDivider": "or",
+  "authPleaseEnterPassword": "Please enter your password",
+  "authRegisterSubtitle": "Create your Loqma account to start ordering.",
+  "authPhoneFieldHint": "07X XXX XXXX",
+  "authHaveAccountSignIn": "Sign in",
+  "authLoginStepPhoneHint": "Enter your phone number to continue.",
+  "authLoginStepPasswordHint": "Enter your password to sign in.",
+  "authRegisterStepNameHint": "Tell us your name so restaurants know who you are.",
+  "authRegisterStepPhoneHint": "We'll use this number for delivery updates.",
+  "authRegisterStepPasswordHint": "Choose a password with at least 8 characters.",
+  "authRegisterStepConfirmHint": "Re-enter your password to confirm.",
+  "authForgotPasswordAdminSubtitle": "Enter your name and phone number. An admin will assign a temporary password for you.",
+  "authRequestPasswordReset": "Request password reset",
+  "authPasswordResetRequestSentTitle": "Request sent",
+  "authPasswordResetRequestSentBody": "Your request was sent to the admin panel. Once they set a temporary password, sign in with it and change your password.",
+  "authAdminDefaultPasswordTitle": "Temporary password assigned",
+  "authAdminDefaultPasswordBody": "Your password is a default password assigned by the admin. Please change it now to keep your account secure.",
+  "authThisIsYourNewPasswordTitle": "This is your new password",
+  "authThisIsYourNewPasswordBody": "An admin assigned this temporary password for you. Sign in with it, then change it to something only you know.",
+  "authUseThisPassword": "Use this password",
+  "authTemporaryPassword": "Temporary password",
+  "authNewPassword": "New password",
+  "authPasswordUpdatedTitle": "Password updated",
+  "authPasswordUpdatedBody": "Your new password is set. You can continue ordering.",
+  "authInvalidCredentials": "That email/phone or password is incorrect. Please try again.",
+  "authCheckPasswordAgain": "Double-check your password and try again.",
+  "authEmailAlreadyRegistered": "This email is already registered. Sign in instead.",
+  "authPhoneAlreadyRegistered": "This phone number is already registered. Sign in instead.",
+  "authValidationFixFields": "Please fix the highlighted fields and try again.",
+  "authTooManyAttempts": "Too many attempts. Please wait a moment and try again.",
+  "authGoogleCancelled": "Google sign-in was cancelled.",
+  "authGoogleFailed": "Could not sign in with Google. Please try again.",
+  "authGoogleNotConfigured": "Google Sign-In is not set up yet. Add the app SHA-1 and a Web client ID in Firebase / Google Cloud, then try again.",
+  "authGoogleNoIdToken": "Google Sign-In could not get an ID token. Add a Web OAuth client ID (serverClientId) and the app SHA-1 fingerprint in Firebase.",
+  "authSomethingWentWrong": "Something went wrong. Please try again.",
+  "authNoInternet": "No internet connection. Check your network and try again.",
+  "authServerSlow": "The server is taking too long. Please try again.",
+  "authServerUnavailable": "Server is temporarily unavailable. Please try again shortly."
+}

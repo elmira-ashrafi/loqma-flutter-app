@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "intro",
+      "title": "1. Introduction",
+      "paragraphs": [
+        "Loqma (\"we,\" \"us,\" \"our,\" or \"Company\") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our food delivery platform, including our website and mobile application (collectively, the \"Service\").",
+        "Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our Service. Your use of the Service indicates your acceptance of this Privacy Policy."
+      ]
+    },
+    {
+      "id": "collect",
+      "title": "2. Information We Collect",
+      "subsections": [
+        {
+          "title": "Account Registration Information",
+          "accent": "blue",
+          "bullets": [
+            {
+              "title": "Full Name",
+              "purpose": "PURPOSE: Customer identification and order personalization — used to address you by name and confirm orders are delivered to the correct person."
+            },
+            {
+              "title": "Email Address",
+              "purpose": "PURPOSE: Account authentication and communication — used for login, password recovery, order confirmations, and important platform notifications."
+            },
+            {
+              "title": "Phone Number",
+              "purpose": "PURPOSE: Order delivery coordination and support — allows drivers to contact you for delivery updates and enables our support team to reach you with order-related information."
+            },
+            {
+              "title": "Password (One-way encrypted)",
+              "purpose": "PURPOSE: Account security — securely hashed and stored to authenticate users and prevent unauthorized account access."
+            },
+            {
+              "title": "Profile Picture/Avatar",
+              "purpose": "PURPOSE: Profile personalization and restaurant reviews — helps personalize your profile and is displayed alongside any reviews or feedback you leave."
+            },
+            {
+              "title": "Language Preference",
+              "purpose": "PURPOSE: User experience localization — enables the platform to display content in your preferred language (English, Dari, or Pashto)."
+            }
+          ],
+          "intro": "When you create an account, we collect:"
+        },
+        {
+          "title": "Delivery Address Information",
+          "accent": "green",
+          "bullets": [
+            {
+              "title": "Recipient Name",
+              "purpose": "PURPOSE: Delivery verification — ensures food is delivered to the correct recipient."
+            },
+            {
+              "title": "Recipient Phone Number",
+              "purpose": "PURPOSE: Driver-customer communication — allows the delivery driver to contact the recipient about delivery arrival time and location."
+            },
+            {
+              "title": "Complete Address Details",
+              "purpose": "PURPOSE: Order delivery — includes city, area, street name, building number, floor, apartment number — critical for accurate food delivery to your location."
+            },
+            {
+              "title": "Precise GPS Coordinates",
+              "purpose": "PURPOSE: Real-time tracking and navigation — latitude and longitude data used for accurate mapping, real-time order tracking, and driver navigation."
+            },
+            {
+              "title": "Delivery Instructions",
+              "purpose": "PURPOSE: Special delivery handling — for gate codes, access instructions, or specific delivery preferences to ensure successful delivery."
+            }
+          ],
+          "intro": "For each delivery address, we collect:"
+        },
+        {
+          "title": "Payment & Transaction Information",
+          "accent": "orange",
+          "bullets": [
+            {
+              "title": "Payment Method",
+              "purpose": "PURPOSE: Payment processing — recorded whether you pay (cash, card, or wallet) for order reconciliation and service optimization."
+            },
+            {
+              "title": "Transaction ID",
+              "purpose": "PURPOSE: Payment verification and fraud prevention — uniquely identifies each transaction for security and audit purposes."
+            },
+            {
+              "title": "Order Amounts",
+              "purpose": "PURPOSE: Business operations — subtotal, delivery fees, taxes, discounts, and final total recorded for accounting, analytics, and personalized recommendations."
+            },
+            {
+              "title": "Tip Amount",
+              "purpose": "PURPOSE: Driver compensation — optional tip information collected and transferred to drivers as appreciation for service."
+            }
+          ],
+          "intro": "When processing orders, we collect:"
+        },
+        {
+          "title": "Location & Device Information",
+          "accent": "purple",
+          "bullets": [
+            {
+              "title": "Real-time GPS Location (For Drivers)",
+              "purpose": "PURPOSE: Order tracking and delivery optimization — continuously collected from drivers to enable real-time delivery tracking for customers and route optimization."
+            },
+            {
+              "title": "Last Login IP Address",
+              "purpose": "PURPOSE: Security monitoring — recorded for fraud detection and account security analysis."
+            },
+            {
+              "title": "FCM Push Notification Token",
+              "purpose": "PURPOSE: Real-time notifications — enables us to send order updates, promotions, and important notifications to your device."
+            }
+          ],
+          "intro": "We collect location data when enabled:"
+        },
+        {
+          "title": "Order & Behavioral Data",
+          "accent": "red",
+          "bullets": [
+            {
+              "title": "Order History",
+              "purpose": "PURPOSE: Service improvement and personalization — detailed record of what you order helps us improve recommendations and understand your preferences."
+            },
+            {
+              "title": "Restaurant Preferences",
+              "purpose": "PURPOSE: Personalized experience — tracks your favorite and frequently ordered restaurants to show relevant recommendations."
+            },
+            {
+              "title": "Search History",
+              "purpose": "PURPOSE: Platform analytics — helps us understand what foods and restaurants are popular and improve search functionality."
+            },
+            {
+              "title": "Special Instructions",
+              "purpose": "PURPOSE: Accurate order fulfillment — dietary restrictions, allergies, or special preparation requests are shared with restaurants to ensure safe delivery."
+            }
+          ],
+          "intro": "We store complete order information:"
+        },
+        {
+          "title": "Reviews & Feedback",
+          "accent": "yellow",
+          "bullets": [
+            {
+              "title": "Service Ratings",
+              "purpose": "PURPOSE: Service quality assessment — ratings for restaurant, food quality, and delivery service help us identify areas for improvement."
+            },
+            {
+              "title": "Written Reviews & Comments",
+              "purpose": "PURPOSE: Community feedback — detailed reviews help other customers make informed decisions and help restaurants improve service."
+            },
+            {
+              "title": "Review Images/Photos",
+              "purpose": "PURPOSE: Visual feedback — photos of food and packaging helps other customers and restaurants assess quality."
+            }
+          ],
+          "intro": "When you submit reviews, we collect:"
+        },
+        {
+          "title": "Driver Specific Information (Drivers Only)",
+          "accent": "cyan",
+          "bullets": [
+            {
+              "title": "National ID & Biometric Data",
+              "purpose": "PURPOSE: Driver verification and fraud prevention — Afghan government ID verified through document capture (front & back photos) to ensure driver legitimacy."
+            },
+            {
+              "title": "Date of Birth",
+              "purpose": "PURPOSE: Compliance verification — verify driver is of legal working age and cross-reference with national ID."
+            },
+            {
+              "title": "Vehicle Information",
+              "purpose": "PURPOSE: Route planning and safety — vehicle type, license plate, model, color, and photos recorded for identification and customer safety."
+            },
+            {
+              "title": "Driver License Details",
+              "purpose": "PURPOSE: Legal compliance — license number, expiry date, and photos verified to ensure authorized operation."
+            },
+            {
+              "title": "Bank/Mobile Wallet Information",
+              "purpose": "PURPOSE: Driver payment processing — bank account details for salary transfers and mobile wallet for instant payouts."
+            },
+            {
+              "title": "Continuous GPS Tracking",
+              "purpose": "PURPOSE: Order dispatch and customer safety — real-time location updates tracked while driver is online and delivering orders."
+            }
+          ],
+          "intro": "Delivery drivers provide additional information for verification:"
+        },
+        {
+          "title": "Referral & Loyalty Program Data",
+          "accent": "indigo",
+          "bullets": [
+            {
+              "title": "Referral Code & Network",
+              "purpose": "PURPOSE: Referral rewards — tracks referral relationships to credit bonuses and rewards for both referrer and new customer."
+            },
+            {
+              "title": "Loyalty Points & Wallet Balance",
+              "purpose": "PURPOSE: Rewards program — tracks accumulated points, credits, and wallet balance for discounts and incentives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "title": "3. How We Use Your Information",
+      "useCases": [
+        {
+          "title": "Service Delivery",
+          "description": "Process orders, manage payments, and coordinate deliveries."
+        },
+        {
+          "title": "Communication",
+          "description": "Send order updates, promotional offers, and customer support."
+        },
+        {
+          "title": "Analytics & Improvement",
+          "description": "Understand user behavior, improve features, and personalize experience."
+        },
+        {
+          "title": "Fraud Prevention",
+          "description": "Detect and prevent fraudulent activities and unauthorized access."
+        },
+        {
+          "title": "Regulatory Compliance",
+          "description": "Meet legal requirements and government regulations."
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "title": "4. Data Security",
+      "paragraphs": [
+        "We implement comprehensive security measures to protect your personal information:"
+      ],
+      "securityBullets": [
+        "End-to-end encryption for sensitive data transmission",
+        "Password hashing and secure storage",
+        "Regular security audits and penetration testing",
+        "Restricted access to personal information (staff only as needed)",
+        "Secure backups and disaster recovery procedures"
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "5. Data Retention",
+      "retentionCards": [
+        {
+          "title": "Active Account Data",
+          "body": "Maintained while your account is active or for legal requirement duration."
+        },
+        {
+          "title": "Order History",
+          "body": "Retained for 7 years for tax and legal compliance purposes."
+        },
+        {
+          "title": "Deleted Account Data",
+          "body": "Deleted after 30 days, subject to legal holds or disputes."
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "6. Your Privacy Rights",
+      "rightsCards": [
+        {
+          "title": "Right to Access",
+          "body": "Request a copy of all personal data we hold about you."
+        },
+        {
+          "title": "Right to Correct",
+          "body": "Request correction of inaccurate or incomplete data."
+        },
+        {
+          "title": "Right to Delete",
+          "body": "Request deletion of your personal data (subject to legal requirements)."
+        },
+        {
+          "title": "Right to Withdraw",
+          "body": "Withdraw consent for data processing at any time."
+        }
+      ],
+      "footer": "To exercise any of these rights, please contact us through the app."
+    },
+    {
+      "id": "contact",
+      "title": "7. Contact Us",
+      "paragraphs": [
+        "If you have privacy concerns or questions about this policy, please contact:"
+      ],
+      "contactTeam": "Loqma Privacy Team",
+      "contactPhone": "0202250507"
+    }
+  ]
+}

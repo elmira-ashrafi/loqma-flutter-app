@@ -1,0 +1,105 @@
+name: overfood
+description: >-
+  Loqma — production-ready Flutter food delivery app with multi-role support,
+  trilingual UI (en/fa/ps), and Laravel REST API integration.
+repository: https://github.com/elmira-ashrafi/loqma-flutter-app
+issue_tracker: https://github.com/elmira-ashrafi/loqma-flutter-app/issues
+publish_to: 'none'
+version: 1.0.19+19
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # State management
+  get: ^4.6.6
+
+  # Network
+  dio: ^5.7.0
+
+  # Storage & Security
+  flutter_secure_storage: ^9.2.2
+
+  # UI & Design
+  google_fonts: ^6.2.1
+  shimmer: ^3.0.0
+  lottie: ^3.1.2
+  cached_network_image: ^3.4.1
+  flutter_svg: ^2.0.10+1
+  video_player: ^2.8.6
+
+  # Maps & Location
+  google_maps_flutter: ^2.10.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+
+  # Firebase (Push Notifications)
+  firebase_core: ^3.15.2
+  firebase_messaging: ^15.2.10
+
+  # App update: Google Play immediate in-app updates (Android) + API semver fallback
+  in_app_update: ^4.2.5
+  package_info_plus: ^8.0.0
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.4
+
+  # Utils
+  intl: ^0.20.2
+  equatable: ^2.0.5
+  uuid: ^4.5.1
+  pull_to_refresh: ^2.0.0
+  custom_refresh_indicator: ^4.0.1
+  shared_preferences: ^2.3.3
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.0
+  app_links: ^6.4.0
+  webview_flutter: ^4.8.0
+  connectivity_plus: ^6.0.5
+  flutter_local_notifications: ^21.0.0
+  sms_autofill: ^2.4.1
+  quickalert: ^1.1.0
+  gif: ^2.3.0
+  google_sign_in: ^6.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/Loqma icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icons/Loqma icon.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/privacy/
+    - assets/terms/
+    - assets/icons/loqma_logo_dark.png
+    - assets/icons/loqma_logo_light.png
+    - assets/icons/hesabpay.png
+    - assets/gif/sine-1.gif
+    - assets/gif/sine-1.png
+    - assets/gif/sine-2-1.gif
+    - assets/gif/sine-2-1.png
+    - assets/gif/sine-3.gif
+    - assets/gif/sine-3.png
+    - assets/gif/sine-4.gif
+    - assets/gif/sine-4.png
+    - assets/gif/Application Cancel Illutoration-01.png
+    # Remove empty directories to reduce APK size
+    # - assets/images/ # Empty directory
+    # - assets/animations/ # Empty directory

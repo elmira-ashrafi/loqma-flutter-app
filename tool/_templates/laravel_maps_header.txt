@@ -1,0 +1,4 @@
+// GENERATED FILE - do not edit by hand.
+// Regenerate: php tool/generate_laravel_message_maps.php
+// Source: UberEat/lang/{en,fa,ps}/messages.php
+

@@ -1,0 +1,7 @@
+
+/// Same keys and strings as Laravel messages.php for en, fa, ps.
+const Map<String, Map<String, String>> kLaravelMessagesByLocale = {
+  'en': kLaravelMessagesEn,
+  'fa': kLaravelMessagesFa,
+  'ps': kLaravelMessagesPs,
+};

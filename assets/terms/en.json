@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "overview",
+      "navTitle": "Overview",
+      "callout": {
+        "accent": "blue",
+        "paragraphs": [
+          "These Terms of Service (\"Terms\") govern your use of the Loqma platform. By accessing our website or mobile application, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not use our Service."
+        ]
+      }
+    },
+    {
+      "id": "accounts",
+      "title": "1. User Accounts",
+      "blocks": [
+        {
+          "heading": "1.1 Account Creation",
+          "paragraph": "To use our Service, you must create an account. You agree to:",
+          "bullets": [
+            "Provide accurate, complete, and current information",
+            "Maintain confidentiality of your password",
+            "Be responsible for all activities under your account",
+            "Notify us immediately of unauthorized access"
+          ]
+        },
+        {
+          "heading": "1.2 Account Eligibility",
+          "paragraph": "You must be at least 18 years old and have the legal capacity to enter into contracts. Users who are minors may use the Service only with parental or guardian consent."
+        },
+        {
+          "heading": "1.3 Account Termination",
+          "paragraph": "We reserve the right to terminate or suspend your account immediately, without notice, for conduct that violates these Terms or is harmful to other users or our platform."
+        }
+      ]
+    },
+    {
+      "id": "acceptable",
+      "title": "2. Acceptable Use Policy",
+      "lead": "Users agree NOT to:",
+      "prohibited": [
+        {
+          "title": "Illegal Activities",
+          "body": "Use the Service for any illegal purpose or in violation of any laws or regulations."
+        },
+        {
+          "title": "Harassment & Abuse",
+          "body": "Abuse, threaten, defame, or harass other users, drivers, restaurants, or staff members."
+        },
+        {
+          "title": "False Information",
+          "body": "Submit false orders, create fake reviews, or provide misleading information."
+        },
+        {
+          "title": "Fraud & Deception",
+          "body": "Attempt to defraud users, restaurants, or our payment system."
+        },
+        {
+          "title": "Hacking & Unauthorized Access",
+          "body": "Attempt to gain unauthorized access to the platform or other users' accounts."
+        },
+        {
+          "title": "Spam & Excessive Use",
+          "body": "Send spam, mass messages, or attempt to disrupt the Service."
+        },
+        {
+          "title": "Intellectual Property",
+          "body": "Violate copyrights, trademarks, or other intellectual property rights."
+        }
+      ]
+    },
+    {
+      "id": "orders",
+      "title": "3. Orders & Payment",
+      "blocks": [
+        {
+          "heading": "3.1 Order Acceptance",
+          "paragraph": "We retain the right to refuse or cancel any order at any time. Restaurant owners may refuse orders that violate their policies. Delivery may be declined for addresses outside service areas or due to safety concerns."
+        },
+        {
+          "heading": "3.2 Pricing & Fees",
+          "paragraph": "Prices and fees are displayed at the time of order. We reserve the right to modify pricing with reasonable notice. Promotional codes may have restrictions and expiration dates.",
+          "callout": {
+            "accent": "yellow",
+            "title": "Fees Include:",
+            "bullets": [
+              "Food cost (set by restaurant)",
+              "Delivery fee (varies by distance)",
+              "Service/platform fee",
+              "Applicable taxes"
+            ]
+          }
+        },
+        {
+          "heading": "3.3 Payment Methods",
+          "paragraph": "We accept cash on delivery, credit card, mobile wallet, and other digital payment methods. Payment is required to complete your order. By using a payment method, you authorize us to charge your account."
+        },
+        {
+          "heading": "3.4 Refunds & Disputes",
+          "paragraph": "Refund eligibility depends on the reason for cancellation:",
+          "callout": {
+            "accent": "green",
+            "bullets": [
+              "Customer cancels before restaurant accepts: Full refund",
+              "Restaurant cancels: Full refund of food cost, partial refund of fees",
+              "Platform error: Full refund",
+              "Customer cancels after restaurant confirms: No refund (non-refundable)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "4. Delivery & Liability",
+      "blocks": [
+        {
+          "heading": "4.1 Delivery Times",
+          "paragraph": "Estimated delivery times are provided for convenience but not guaranteed. We are not liable for delays caused by traffic, weather, or circumstances beyond our control. Typical delivery is 30-45 minutes from restaurant acceptance."
+        },
+        {
+          "heading": "4.2 Delivery Address Requirements",
+          "paragraph": "You must provide a valid, accurate delivery address. We are not responsible for:",
+          "bullets": [
+            "Orders delivered to incorrect addresses due to customer error",
+            "Drivers being unable to access locked buildings without access codes",
+            "Deliveries refused by building security"
+          ]
+        },
+        {
+          "heading": "4.3 Food Quality & Safety",
+          "paragraph": "Restaurants are responsible for food quality and safety. If you receive:",
+          "bullets": [
+            "Incorrect or incomplete orders: Contact us within 30 minutes for resolution",
+            "Contaminated or unsafe food: Contact us immediately for full refund",
+            "Cold or damaged food: File complaint within 2 hours of delivery"
+          ]
+        },
+        {
+          "heading": "4.4 Liability Limitation",
+          "paragraph": "To the fullest extent permitted by law, Loqma is not liable for indirect, incidental, or consequential damages. Our total liability is limited to the value of your order."
+        }
+      ]
+    },
+    {
+      "id": "drivers",
+      "title": "5. Driver Partners",
+      "blocks": [
+        {
+          "heading": "5.1 Independent Contractors",
+          "paragraph": "Drivers are independent contractors, not employees. They are responsible for their vehicle maintenance, insurance, and compliance with traffic laws."
+        },
+        {
+          "heading": "5.2 Driver Conduct & Safety",
+          "paragraph": "All drivers must:",
+          "bullets": [
+            "Maintain valid driver's license and insurance",
+            "Follow all traffic laws and regulations",
+            "Treat customers with respect",
+            "Secure food items properly during delivery",
+            "Never consume customer food or beverages"
+          ]
+        },
+        {
+          "heading": "5.3 Driver Verification",
+          "paragraph": "All drivers undergo background checks and document verification. However, we cannot guarantee complete absence of risk. Report unsafe driver behavior immediately."
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "6. Restaurant Partners",
+      "blocks": [
+        {
+          "heading": "6.1 Restaurant Responsibility",
+          "paragraph": "Restaurants are responsible for:",
+          "bullets": [
+            "Food quality and hygiene standards",
+            "Accurate menu descriptions and allergen information",
+            "Timely order preparation",
+            "Compliance with food safety regulations"
+          ]
+        },
+        {
+          "heading": "6.2 Commission & Fees",
+          "paragraph": "Restaurants agree to pay agreed-upon commission rates. Commission is calculated on total order value including delivery fee."
+        }
+      ]
+    },
+    {
+      "id": "ip",
+      "title": "7. Intellectual Property Rights",
+      "blocks": [
+        {
+          "paragraph": "All content on our platform, including logos, text, graphics, and software, is our property or licensed to us. You may not:",
+          "bullets": [
+            "Copy or reproduce content without permission",
+            "Modify or create derivative works",
+            "Use our logo or branding without authorization"
+          ]
+        },
+        {
+          "paragraph": "User-Generated Content:"
+        },
+        {
+          "paragraph": "By posting reviews, photos, or feedback, you grant us a royalty-free, perpetual license to use, display, and distribute this content. You remain the owner and responsible for your content."
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "title": "8. Governing Law & Dispute Resolution",
+      "blocks": [
+        {
+          "heading": "8.1 Governing Law",
+          "paragraph": "These Terms are governed by the laws of Afghanistan. Any disputes shall be subject to the jurisdiction of Afghan courts."
+        },
+        {
+          "heading": "8.2 Dispute Resolution",
+          "paragraph": "In case of disputes:",
+          "orderedList": [
+            "Contact our support team within 7 days",
+            "Provide complete documentation of the issue",
+            "We will investigate and respond within 14 days",
+            "If unresolved, escalate to our management team"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "disclaimers",
+      "title": "9. Disclaimers",
+      "callout": {
+        "accent": "orange",
+        "paragraphs": [
+          "The Service is provided \"AS IS\" without warranties. We do not guarantee:"
+        ],
+        "bullets": [
+          "Uninterrupted service availability",
+          "Absence of errors or defects",
+          "Security from unauthorized access",
+          "Specific delivery times",
+          "Third-party service performance"
+        ]
+      }
+    },
+    {
+      "id": "changes",
+      "title": "10. Changes to Terms",
+      "blocks": [
+        {
+          "paragraph": "We may modify these Terms at any time. We will notify you of significant changes via email or in-app notification. Continued use of the Service after changes indicates your acceptance of the new Terms."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "11. Contact Us",
+      "blocks": [
+        {
+          "paragraph": "If you have questions about these Terms, please contact:"
+        }
+      ],
+      "contactTeam": "Loqma Legal Team",
+      "contactPhone": "0202250507",
+      "closingNote": "By using Loqma, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+    }
+  ]
+}

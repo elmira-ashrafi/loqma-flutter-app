@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1067372888781",
+    "project_id": "loqma-db654",
+    "storage_bucket": "loqma-db654.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067372888781:android:3820af43a32bdc16b29f84",
+        "android_client_info": {
+          "package_name": "delivery.loqma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzIXmQGZAXzZ_kAt5MCrWvwZO80TqNqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067372888781:android:28e725ae6d070b2cb29f84",
+        "android_client_info": {
+          "package_name": "logma.deliverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzIXmQGZAXzZ_kAt5MCrWvwZO80TqNqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067372888781:android:93f435e010862356b29f84",
+        "android_client_info": {
+          "package_name": "loqma.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzIXmQGZAXzZ_kAt5MCrWvwZO80TqNqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

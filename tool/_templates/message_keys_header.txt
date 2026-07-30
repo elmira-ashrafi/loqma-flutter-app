@@ -1,0 +1,6 @@
+// GENERATED - same keys as UberEat/lang/en/messages.php
+// Regenerate: php tool/generate_laravel_message_maps.php
+// ignore_for_file: constant_identifier_names - names mirror Laravel snake_case keys.
+
+abstract final class MessageKeys {
+  MessageKeys._();
