@@ -7,6 +7,8 @@ A production-grade **Flutter** customer and operations app for a multi-role food
 
 Built as a real-world mobile product with JWT authentication, push notifications, maps-based delivery, in-app payments, and role-based dashboards.
 
+**Get it on Google Play:** [لقمه (Loqma) on Google Play](https://play.google.com/store/apps/details?id=delivery.loqma)
+
 ---
 
 ## Project overview
